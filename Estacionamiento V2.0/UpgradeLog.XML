@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Estacionamiento">
+</Property><Property Name="Solution File" Value="C:\Users\JTC04721\Documents\Visual Studio 2008\Projects\Estacionamiento\Estacionamiento.sln">
+</Property><Property Name="User Options File" Value="C:\Users\JTC04721\Documents\Visual Studio 2008\Projects\Estacionamiento\Estacionamiento.suo">
+</Property><Property Name="Date" Value="viernes, 1 de julio de 2016">
+</Property><Property Name="Time" Value="11:05 a. m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Estacionamiento.sln" Description="File successfully backed up as C:\Users\JTC04721\Documents\Visual Studio 2008\Projects\Estacionamiento\Backup\Estacionamiento.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Estacionamiento.suo" Description="File successfully backed up as C:\Users\JTC04721\Documents\Visual Studio 2008\Projects\Estacionamiento\Backup\Estacionamiento.suo">
+</Event><Event ErrorLevel="0" Project="Estacionamiento" Source="Estacionamiento\Estacionamiento.csproj" Description="Project file successfully backed up as C:\Users\JTC04721\Documents\Visual Studio 2008\Projects\Estacionamiento\Backup\Estacionamiento\Estacionamiento.csproj">
+</Event><Event ErrorLevel="0" Project="Estacionamiento" Source="Estacionamiento\f_parametros.cs" Description="File successfully backed up as C:\Users\JTC04721\Documents\Visual Studio 2008\Projects\Estacionamiento\Backup\Estacionamiento\f_parametros.cs">
+</Event><Event ErrorLevel="0" Project="Estacionamiento" Source="Estacionamiento\f_parametros.Designer.cs" Description="File successfully backed up as C:\Users\JTC04721\Documents\Visual Studio 2008\Projects\Estacionamiento\Backup\Estacionamiento\f_parametros.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Estacionamiento" Source="Estacionamiento\Inicio.cs" Description="File successfully backed up as C:\Users\JTC04721\Documents\Visual Studio 2008\Projects\Estacionamiento\Backup\Estacionamiento\Inicio.cs">
+</Event><Event ErrorLevel="0" Project="Estacionamiento" Source="Estacionamiento\Inicio.Designer.cs" Description="File successfully backed up as C:\Users\JTC04721\Documents\Visual Studio 2008\Projects\Estacionamiento\Backup\Estacionamiento\Inicio.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Estacionamiento" Source="Estacionamiento\Program.cs" Description="File successfully backed up as C:\Users\JTC04721\Documents\Visual Studio 2008\Projects\Estacionamiento\Backup\Estacionamiento\Program.cs">
+</Event><Event ErrorLevel="0" Project="Estacionamiento" Source="Estacionamiento\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\JTC04721\Documents\Visual Studio 2008\Projects\Estacionamiento\Backup\Estacionamiento\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Estacionamiento" Source="Estacionamiento\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\JTC04721\Documents\Visual Studio 2008\Projects\Estacionamiento\Backup\Estacionamiento\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Estacionamiento" Source="Estacionamiento\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\JTC04721\Documents\Visual Studio 2008\Projects\Estacionamiento\Backup\Estacionamiento\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Estacionamiento" Source="Estacionamiento\Properties\Settings.settings" Description="File successfully backed up as C:\Users\JTC04721\Documents\Visual Studio 2008\Projects\Estacionamiento\Backup\Estacionamiento\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Estacionamiento" Source="Estacionamiento\BDEstacionamiento.mdb" Description="File successfully backed up as C:\Users\JTC04721\Documents\Visual Studio 2008\Projects\Estacionamiento\Backup\Estacionamiento\BDEstacionamiento.mdb">
+</Event><Event ErrorLevel="0" Project="Estacionamiento" Source="Estacionamiento\Inicio.resx" Description="File successfully backed up as C:\Users\JTC04721\Documents\Visual Studio 2008\Projects\Estacionamiento\Backup\Estacionamiento\Inicio.resx">
+</Event><Event ErrorLevel="0" Project="Estacionamiento" Source="Estacionamiento\Properties\Resources.resx" Description="File successfully backed up as C:\Users\JTC04721\Documents\Visual Studio 2008\Projects\Estacionamiento\Backup\Estacionamiento\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Estacionamiento" Source="Estacionamiento\Estacionamiento.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Estacionamiento" Source="Estacionamiento\Estacionamiento.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Estacionamiento.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Estacionamiento.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Estacionamiento" Source="Estacionamiento\Estacionamiento.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

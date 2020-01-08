@@ -1,0 +1,13 @@
+C:\Users\JTC04721\Documents\Visual Studio 2008\Projects\Estacionamiento\Estacionamiento\bin\Debug\Estacionamiento.exe.config
+C:\Users\JTC04721\Documents\Visual Studio 2008\Projects\Estacionamiento\Estacionamiento\bin\Debug\Estacionamiento.exe
+C:\Users\JTC04721\Documents\Visual Studio 2008\Projects\Estacionamiento\Estacionamiento\bin\Debug\Estacionamiento.pdb
+C:\Users\JTC04721\Documents\Visual Studio 2008\Projects\Estacionamiento\Estacionamiento\bin\Debug\BarcodeLib.dll
+C:\Users\JTC04721\Documents\Visual Studio 2008\Projects\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.csprojResolveAssemblyReference.cache
+C:\Users\JTC04721\Documents\Visual Studio 2008\Projects\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.f_parametros.resources
+C:\Users\JTC04721\Documents\Visual Studio 2008\Projects\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.f_Inicio.resources
+C:\Users\JTC04721\Documents\Visual Studio 2008\Projects\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.Properties.Resources.resources
+C:\Users\JTC04721\Documents\Visual Studio 2008\Projects\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.csproj.GenerateResource.Cache
+C:\Users\JTC04721\Documents\Visual Studio 2008\Projects\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.exe
+C:\Users\JTC04721\Documents\Visual Studio 2008\Projects\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.pdb
+C:\Users\JTC04721\Documents\Visual Studio 2008\Projects\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.f_reportes.resources
+C:\Users\JTC04721\Documents\Visual Studio 2008\Projects\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.f_login.resources
